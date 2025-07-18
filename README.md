@@ -4,4 +4,6 @@
 
 672110144 Thanatchon Zirinawaranoent
 
-![image](config.png)
+![image](config.png)  
+
+![image](fix.png)
